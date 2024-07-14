@@ -1,0 +1,2 @@
+# hackerrank-sql
+SQL SOLUTIONS OF HACKERRANK
