@@ -50,10 +50,11 @@ ___
 -->
 ___
 ### Basic Select
-* [Revising_the_select_query_I](pdf/revising-the-select-query.pdf) - [Solution](SQL/revising_the_select_query_I.sql)
-* [Revising_the_select_query_II](pdf/revising-the-select-query-2.pdf) - [Solution](SQL/revising_the_select_query_II.sql)
 * [Select_all](pdf/select-all-sql.pdf) - [Solution](SQL/select_all.sql)
 * [Select_by_ID](pdf/select-by-id.pdf) - [Solution](SQL/select_by_id.sql)
+* [Revising_the_select_query_I](pdf/revising-the-select-query.pdf) - [Solution](SQL/revising_the_select_query.sql)
+* [Revising_the_select_query_II](pdf/revising-the-select-query-2.pdf) - [Solution](SQL/revising_the_select_query_II.sql)
+
 * [Japanese_cities_attributes](pdf/japanese-cities-attributes.pdf) - [Solution](SQL/japanese_cities_attributes.sql)
 * [Japanese_cities_names](pdf/japanese-cities-name.pdf) - [Solution](SQL/japanese_cities_names.sql)
 * [Weather_observation_station_I](pdf/weather-observation-station-1.pdf) - [Solution](SQL/weather_observation_station_I.sql)
