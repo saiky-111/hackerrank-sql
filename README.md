@@ -50,14 +50,14 @@ ___
 -->
 ___
 ### Basic Select
-* [Revising_the_select_query_I](pdf/revising-the-select-query.pdf) - [Solution](sql/Revising_the_select_query_I.sql)
-* [Revising_the_select_query_II](pdf/revising-the-select-query-2.pdf) - [Solution](sql/Revising_the_select_query_II.sql)
-* [Select_all](pdf/select-all-sql.pdf) - [Solution](sql/Select_all.sql)
-* [Select_by_ID](pdf/select-by-id.pdf) - [Solution](sql/Select_by_ID.sql)
-* [Japanese_cities_attributes](pdf/japanese-cities-attributes.pdf) - [Solution](sql/Japanese_cities_attributes.sql)
-* [Japanese_cities_names](pdf/japanese-cities-name.pdf) - [Solution](sql/Japanese_cities_names.sql)
-* [Weather_observation_station_I](pdf/weather-observation-station-1.pdf) - [Solution](sql/Weather_observation_station_I.sql)
-* [Weather_observation_station_III](pdf/weather-observation-station-3.pdf) - [Solution](sql/Weather_observation_station_III.sql)
+* [Revising_the_select_query_I](pdf/revising-the-select-query.pdf) - [Solution](SQL/Revising_the_select_query_I.sql)
+* [Revising_the_select_query_II](pdf/revising-the-select-query-2.pdf) - [Solution](SQL/Revising_the_select_query_II.sql)
+* [Select_all](pdf/select-all-sql.pdf) - [Solution](SQL/Select_all.sql)
+* [Select_by_ID](pdf/select-by-id.pdf) - [Solution](SQL/Select_by_ID.sql)
+* [Japanese_cities_attributes](pdf/japanese-cities-attributes.pdf) - [Solution](SQL/Japanese_cities_attributes.sql)
+* [Japanese_cities_names](pdf/japanese-cities-name.pdf) - [Solution](SQL/Japanese_cities_names.sql)
+* [Weather_observation_station_I](pdf/weather-observation-station-1.pdf) - [Solution](SQL/Weather_observation_station_I.sql)
+* [Weather_observation_station_III](pdf/weather-observation-station-3.pdf) - [Solution](SQL/Weather_observation_station_III.sql)
 <!--
 * [Employee_salaries](pdf/salary-of-employees.pdf) - [Solution](sql/Employee_salaries.sql)
 * [Higher_than_75_marks](pdf/more-than-75-marks.pdf) - [Solution](sql/Higher_than_75_marks.sql)
