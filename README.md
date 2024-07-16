@@ -54,11 +54,12 @@ ___
 * [Select_by_ID](pdf/select-by-id.pdf) - [Solution](SQL/select_by_id.sql)
 * [Revising_the_select_query_I](pdf/revising-the-select-query.pdf) - [Solution](SQL/revising_the_select_query.sql)
 * [Revising_the_select_query_II](pdf/revising-the-select-query-2.pdf) - [Solution](SQL/revising_the_select_query_II.sql)
-
 * [Japanese_cities_attributes](pdf/japanese-cities-attributes.pdf) - [Solution](SQL/japanese_cities_attributes.sql)
 * [Japanese_cities_names](pdf/japanese-cities-name.pdf) - [Solution](SQL/japanese_cities_names.sql)
 * [Weather_observation_station_I](pdf/weather-observation-station-1.pdf) - [Solution](SQL/weather_observation_station_I.sql)
 * [Weather_observation_station_III](pdf/weather-observation-station-3.pdf) - [Solution](SQL/weather_observation_station_III.sql)
+* [Weather_observation_station_IV](pdf/weather-observation-station-4.pdf) - [Solution](sql/weather_observation_station_IV.sql)
+* [Weather_observation_station_VI](pdf/weather-observation-station-6.pdf) - [Solution](sql/Weather_observation_station_VI.sql)
 <!--
 * [Employee_salaries](pdf/salary-of-employees.pdf) - [Solution](sql/Employee_salaries.sql)
 * [Higher_than_75_marks](pdf/more-than-75-marks.pdf) - [Solution](sql/Higher_than_75_marks.sql)
@@ -67,9 +68,9 @@ ___
 
 
 
-* [Weather_observation_station_IV](pdf/weather-observation-station-4.pdf) - [Solution](sql/Weather_observation_station_IV.sql)
+
 * [Weather_observation_station_V](pdf/weather-observation-station-5.pdf) - [Solution](sql/Weather_observation_station_V.sql)
-* [Weather_observation_station_VI](pdf/weather-observation-station-6.pdf) - [Solution](sql/Weather_observation_station_VI.sql)
+
 * [Weather_observation_station_VII](pdf/weather-observation-station-7.pdf) - [Solution](sql/Weather_observation_station_VII.sql)
 * [Weather_observation_station_VIII](pdf/weather-observation-station-8.pdf) - [Solution](sql/Weather_observation_station_VIII.sql)
 * [Weather_observation_station_IX](pdf/weather-observation-station-9.pdf) - [Solution](sql/Weather_observation_station_IX.sql)
