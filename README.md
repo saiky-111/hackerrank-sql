@@ -58,8 +58,9 @@ ___
 * [Japanese_cities_names](pdf/japanese-cities-name.pdf) - [Solution](SQL/japanese_cities_names.sql)
 * [Weather_observation_station_I](pdf/weather-observation-station-1.pdf) - [Solution](SQL/weather_observation_station_I.sql)
 * [Weather_observation_station_III](pdf/weather-observation-station-3.pdf) - [Solution](SQL/weather_observation_station_III.sql)
-* [Weather_observation_station_IV](pdf/weather-observation-station-4.pdf) - [Solution](sql/weather_observation_station_IV.sql)
-* [Weather_observation_station_VI](pdf/weather-observation-station-6.pdf) - [Solution](sql/Weather_observation_station_VI.sql)
+* [Weather_observation_station_IV](pdf/weather-observation-station-4.pdf) - [Solution](SQL/weather_observation_station_IV.sql)
+* [Weather_observation_station_VI](pdf/weather-observation-station-6.pdf) - [Solution](SQL/Weather_observation_station_VI.sql)
+* [Weather_observation_station_VII](pdf/weather-observation-station-7.pdf) - [Solution](SQL/Weather_observation_station_VII.sql)
 <!--
 * [Employee_salaries](pdf/salary-of-employees.pdf) - [Solution](sql/Employee_salaries.sql)
 * [Higher_than_75_marks](pdf/more-than-75-marks.pdf) - [Solution](sql/Higher_than_75_marks.sql)
