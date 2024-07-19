@@ -42,3 +42,18 @@ WHERE LEFT(UPPER(CITY),1) IN ('A','E','I','O','U');
 
 -- LEFT(UPPER(city), 1) extracts the first character from the uppercase city name. 
 -- LEFT(string, n) returns the first n characters of the string.
+
+
+--SOLUTION 4:
+
+SELECT DISTINCT CITY FROM STATION
+WHERE CITY REGEXP '^[aeiou]';
+
+-- CITY REGEXP '^[aeiou]' is a condition that uses a regular expression (REGEXP) to match city names.
+-- REGEXP is a function that allows pattern matching using regular expressions.
+-- ^[aeiou] is the regular expression pattern:
+
+--     ^ asserts the position at the start of the string.
+--     [aeiou] matches any single character within the set (a, e, i, o, u).
+
+-- Together, ^[aeiou] ensures that the city name starts with any of the vowels 'a', 'e', 'i', 'o', or 'u' (case-sensitive in some SQL databases).
