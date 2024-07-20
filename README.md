@@ -5,7 +5,8 @@
 * [Aggregation](#Aggregation)
 * [Alternative Select](#Alternative-Select)
 * [Basic Join](#Basic-Join)-->
-* [Basic Select](#Basic-Select)
+* [BASIC SQL](#BASIC-SQL)
+* [INTERMEDIATE SQL](#INTERMEDIATE-SQL)
 <!--
 ___
 ### Advanced Join
@@ -46,9 +47,10 @@ ___
 * [The_Competitors](pdf/full-score.pdf) - [Solution](sql/Top_Competitors.sql)
 * [The_Report](pdf/the-report.pdf) - [Solution](sql/The_Report.sql)
 -->
-## Basic SQL
-
 ___
+## BASIC SQL
+
+
 ### Basic Select
 * [Select_all](pdf/select-all-sql.pdf) - [Solution](SQL/select_all.sql)
 * [Select_by_ID](pdf/select-by-id.pdf) - [Solution](SQL/select_by_id.sql)
@@ -70,10 +72,10 @@ ___
 * [Employee_salaries](pdf/salary-of-employees.pdf) - [Solution](SQL/Employee_salaries.sql)
 * [**Higher_than_75_marks](pdf/more-than-75-marks.pdf) - [Solution](SQL/Higher_than_75_marks.sql)
 
-___
+
 ### Advanced Select
 * [**Type_of_triangle](pdf/what-type-of-triangle.pdf) - [Solution](SQL/Type_of_triangle.sql)
-
+___
 ## INTERMEDIATE SQL
 
 <!--
