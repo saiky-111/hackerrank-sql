@@ -1,1 +1,3 @@
-select name from Employee order by name asc;
+SOLUTION :
+
+SELECT name FROM Employee ORDER BY name asc;
