@@ -1,4 +1,4 @@
-SOLUTION :1:
+SOLUTION :1:--In this Question, the order of the solution also matters, otherwise it gives error.
 
 SELECT CASE
     WHEN A+B <= C OR A+C <= B OR B+C <= A THEN "Not A Triangle"

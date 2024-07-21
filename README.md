@@ -13,25 +13,7 @@ ___
 * [Placements](pdf/placements.pdf) - [Solution](sql/Placements.sql)
 * [Symmetric_Pairs](pdf/symmetric-pairs.pdf) - [Solution](sql/Symmetric_Pairs.sql)
 
-___
-### Aggregation
-* [Average_population](pdf/average-population.pdf) - [Solution](sql/Average_population.sql)
-* [Japan_population](pdf/japan-population.pdf) - [Solution](sql/Japan_population.sql)
-* [Population_density_difference](pdf/population-density-difference.pdf) - [Solution](sql/Population_density_difference.sql)
-* [Revising_aggregations_-_averages](pdf/revising-aggregations-the-average-function.pdf) - [Solution](sql/Revising_aggregations_-_averages.sql)
-* [Revising_aggregations_-_sum](pdf/revising-aggregations-sum.pdf) - [Solution](sql/Revising_aggregations_-_sum.sql)
-* [Revising_aggregations_-_the_count_function](pdf/revising-aggregations-the-count-function.pdf) - [Solution](sql/Revising_aggregations_-_the_count_function.sql)
-* [The_blunder](pdf/the-blunder.pdf) - [Solution](sql/The_blunder.sql)
-* [Top_earners](pdf/earnings-of-employees.pdf) - [Solution](sql/Top_earners.sql)
-* [Weather_observation_station_II](pdf/weather-observation-station-2.pdf) - [Solution](sql/Weather_observation_station_II.sql)
-* [Weather_observation_station_XIII](pdf/weather-observation-station-13.pdf) - [Solution](sql/Weather_observation_station_XIII.sql)
-* [Weather_observation_station_XIV](pdf/weather-observation-station-14.pdf) - [Solution](sql/Weather_observation_station_XIV.sql)
-* [Weather_observation_station_XV](pdf/weather-observation-station-15.pdf) - [Solution](sql/Weather_observation_station_XV.sql)
-* [Weather_observation_station_XVI](pdf/weather-observation-station-16.pdf) - [Solution](sql/Weather_observation_station_XVI.sql)
-* [Weather_observation_station_XVII](pdf/weather-observation-station-17.pdf) - [Solution](sql/Weather_observation_station_XVII.sql)
-* [Weather_observation_station_XVIII](pdf/weather-observation-station-18.pdf) - [Solution](sql/Weather_observation_station_XVIII.sql)
-* [Weather_observation_station_XIX](pdf/weather-observation-station-19.pdf) - [Solution](sql/Weather_observation_station_XIX.sql)
-* [Weather_observation_station_XX](pdf/weather-observation-station-20.pdf) - [Solution](sql/Weather_observation_station_XX.sql)
+
 ___
 ### Alternative Select
 * [Draw_the_Triangle1](pdf/draw-the-triangle-1.pdf) - [Solution](sql/Draw_the_Triangle1.sql)
@@ -78,7 +60,30 @@ ___
 ___
 ## INTERMEDIATE SQL
 
+
+### Aggregation
+* [Revising_aggregations_-_The_Count_Function](pdf/revising-aggregations-the-count-function.pdf) - [Solution](SQL/Revising_aggregations_-_the_count_function.sql)
+* [Revising_aggregations_-_The_Sum_Function](pdf/revising-aggregations-sum.pdf) - [Solution](SQL/Revising_aggregations_-_sum.sql)
+* [Revising_aggregations_-_averages](pdf/revising-aggregations-the-average-function.pdf) - [Solution](SQL/Revising_aggregations_-_averages.sql)
+* [Average_population](pdf/average-population.pdf) - [Solution](SQL/Average_population.sql)
+
 <!--
 * [Weather_observation_station_V](pdf/weather-observation-station-5.pdf) - [Solution](sql/Weather_observation_station_V.sql)
+
+___
+
+* [Japan_population](pdf/japan-population.pdf) - [Solution](sql/Japan_population.sql)
+* [Population_density_difference](pdf/population-density-difference.pdf) - [Solution](sql/Population_density_difference.sql)
+* [The_blunder](pdf/the-blunder.pdf) - [Solution](sql/The_blunder.sql)
+* [Top_earners](pdf/earnings-of-employees.pdf) - [Solution](sql/Top_earners.sql)
+* [Weather_observation_station_II](pdf/weather-observation-station-2.pdf) - [Solution](sql/Weather_observation_station_II.sql)
+* [Weather_observation_station_XIII](pdf/weather-observation-station-13.pdf) - [Solution](sql/Weather_observation_station_XIII.sql)
+* [Weather_observation_station_XIV](pdf/weather-observation-station-14.pdf) - [Solution](sql/Weather_observation_station_XIV.sql)
+* [Weather_observation_station_XV](pdf/weather-observation-station-15.pdf) - [Solution](sql/Weather_observation_station_XV.sql)
+* [Weather_observation_station_XVI](pdf/weather-observation-station-16.pdf) - [Solution](sql/Weather_observation_station_XVI.sql)
+* [Weather_observation_station_XVII](pdf/weather-observation-station-17.pdf) - [Solution](sql/Weather_observation_station_XVII.sql)
+* [Weather_observation_station_XVIII](pdf/weather-observation-station-18.pdf) - [Solution](sql/Weather_observation_station_XVIII.sql)
+* [Weather_observation_station_XIX](pdf/weather-observation-station-19.pdf) - [Solution](sql/Weather_observation_station_XIX.sql)
+* [Weather_observation_station_XX](pdf/weather-observation-station-20.pdf) - [Solution](sql/Weather_observation_station_XX.sql)
 
 -->

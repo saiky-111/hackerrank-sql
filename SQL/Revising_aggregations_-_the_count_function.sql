@@ -1,1 +1,6 @@
+SOLUTION:1:
 select count(*) from city where population > 100000;
+
+SOLUTION:2:
+SELECT COUNT(ID) FROM CITY
+WHERE POPULATION > 100000;
