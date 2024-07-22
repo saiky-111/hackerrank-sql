@@ -1,1 +1,2 @@
-select round(avg(population)) from city;
+SELECT ROUND(AVG(POPULATION))
+FROM CITY;
