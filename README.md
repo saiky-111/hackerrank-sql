@@ -50,7 +50,7 @@ ___
 * [Weather_observation_station_X](pdf/weather-observation-station-10.pdf) - [Solution](SQL/Weather_observation_station_X.sql)
 * [Weather_observation_station_XI](pdf/weather-observation-station-11.pdf) - [Solution](SQL/Weather_observation_station_XI.sql)
 * [Weather_observation_station_XII](pdf/weather-observation-station-12.pdf) - [Solution](SQL/Weather_observation_station_XII.sql)
-* [Name_of_employees](pdf/name-of-employees.pdf) - [Solution](SQL/Name_of_employees.sql)
+* [Employee Names](pdf/name-of-employees.pdf) - [Solution](SQL/Name_of_employees.sql)
 * [Employee_salaries](pdf/salary-of-employees.pdf) - [Solution](SQL/Employee_salaries.sql)
 * [**Higher_than_75_marks](pdf/more-than-75-marks.pdf) - [Solution](SQL/Higher_than_75_marks.sql)
 
