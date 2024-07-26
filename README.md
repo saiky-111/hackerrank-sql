@@ -80,10 +80,11 @@ ___
 * [Weather_observation_station_XX](pdf/weather-observation-station-20.pdf) - [Solution](sql/Weather_observation_station_XX.sql)
 
 -->
-
+___
+## ADVANCED SQL
 
 ### Basic Join
-* [African_cities](pdf/african-cities.pdf) - [Solution](sql/African_cities.sql)
+* [African_cities](pdf/african-cities.pdf) - [Solution](SQL/African_cities.sql)
 
 
 
