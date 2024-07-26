@@ -18,16 +18,6 @@ ___
 ### Alternative Select
 * [Draw_the_Triangle1](pdf/draw-the-triangle-1.pdf) - [Solution](sql/Draw_the_Triangle1.sql)
 * [Draw_the_Triangle2](pdf/draw-the-triangle-2.pdf) - [Solution](sql/Draw_the_Triangle2.sql)
-___
-### Basic Join
-* [African_cities](pdf/african-cities.pdf) - [Solution](sql/African_cities.sql)
-* [Average_population_of_each_continent](pdf/average-population-of-each-continent.pdf) - [Solution](sql/Average_population_of_each_continent.sql)
-* [Challenges](pdf/challenges.pdf) - [Solution](sql/Challenges.sql)
-* [Contest_Leaderboard](pdf/contest-leaderboard.pdf) - [Solution](sql/Contest_Leaderboard.sql)
-* [Ollivanders_Inventory](pdf/harry-potter-and-wands.pdf) - [Solution](sql/Ollivanders_Inventory.sql)
-* [Population_census](pdf/asian-population.pdf) - [Solution](sql/Population_census.sql)
-* [The_Competitors](pdf/full-score.pdf) - [Solution](sql/Top_Competitors.sql)
-* [The_Report](pdf/the-report.pdf) - [Solution](sql/The_Report.sql)
 -->
 ___
 ## BASIC SQL
@@ -51,29 +41,32 @@ ___
 * [Weather_observation_station_XI](pdf/weather-observation-station-11.pdf) - [Solution](SQL/Weather_observation_station_XI.sql)
 * [Weather_observation_station_XII](pdf/weather-observation-station-12.pdf) - [Solution](SQL/Weather_observation_station_XII.sql)
 * [Employee Names](pdf/name-of-employees.pdf) - [Solution](SQL/Name_of_employees.sql)
-* [Employee_salaries](pdf/salary-of-employees.pdf) - [Solution](SQL/Employee_salaries.sql)
-* [**Higher_than_75_marks](pdf/more-than-75-marks.pdf) - [Solution](SQL/Higher_than_75_marks.sql)
+* [Employee_Salaries](pdf/salary-of-employees.pdf) - [Solution](SQL/Employee_salaries.sql)
+* [**Higher_Than_75_Marks](pdf/more-than-75-marks.pdf) - [Solution](SQL/Higher_than_75_marks.sql)
 
 
 ### Advanced Select
-* [**Type_of_triangle](pdf/what-type-of-triangle.pdf) - [Solution](SQL/Type_of_triangle.sql)
+* [**Type_of_Triangle](pdf/what-type-of-triangle.pdf) - [Solution](SQL/Type_of_triangle.sql)
 ___
 ## INTERMEDIATE SQL
 
 
 ### Aggregation
-* [Revising_aggregations_-_The_Count_Function](pdf/revising-aggregations-the-count-function.pdf) - [Solution](SQL/Revising_aggregations_-_the_count_function.sql)
-* [Revising_aggregations_-_The_Sum_Function](pdf/revising-aggregations-sum.pdf) - [Solution](SQL/Revising_aggregations_-_sum.sql)
-* [Revising_aggregations_-_averages](pdf/revising-aggregations-the-average-function.pdf) - [Solution](SQL/Revising_aggregations_-_averages.sql)
-* [Average_population](pdf/average-population.pdf) - [Solution](SQL/Average_population.sql)
+* [Revising_Aggregations_-_The_Count_Function](pdf/revising-aggregations-the-count-function.pdf) - [Solution](SQL/Revising_aggregations_-_the_count_function.sql)
+* [Revising_Aggregations_-_The_Sum_Function](pdf/revising-aggregations-sum.pdf) - [Solution](SQL/Revising_aggregations_-_sum.sql)
+* [Revising_Aggregations_-_Averages](pdf/revising-aggregations-the-average-function.pdf) - [Solution](SQL/Revising_aggregations_-_averages.sql)
+* [Average_Population](pdf/average-population.pdf) - [Solution](SQL/Average_population.sql)
+* [Japan_Population](pdf/japan-population.pdf) - [Solution](SQL/Japan_population.sql)
+* [Population_Density_Difference](pdf/population-density-difference.pdf) - [Solution](SQL/Population_density_difference.sql)
+* [**The_Blunder](pdf/the-blunder.pdf) - [Solution](sql/The_blunder.sql)
 
 <!--
 * [Weather_observation_station_V](pdf/weather-observation-station-5.pdf) - [Solution](sql/Weather_observation_station_V.sql)
 
 ___
 
-* [Japan_population](pdf/japan-population.pdf) - [Solution](sql/Japan_population.sql)
-* [Population_density_difference](pdf/population-density-difference.pdf) - [Solution](sql/Population_density_difference.sql)
+
+
 * [The_blunder](pdf/the-blunder.pdf) - [Solution](sql/The_blunder.sql)
 * [Top_earners](pdf/earnings-of-employees.pdf) - [Solution](sql/Top_earners.sql)
 * [Weather_observation_station_II](pdf/weather-observation-station-2.pdf) - [Solution](sql/Weather_observation_station_II.sql)
@@ -85,5 +78,27 @@ ___
 * [Weather_observation_station_XVIII](pdf/weather-observation-station-18.pdf) - [Solution](sql/Weather_observation_station_XVIII.sql)
 * [Weather_observation_station_XIX](pdf/weather-observation-station-19.pdf) - [Solution](sql/Weather_observation_station_XIX.sql)
 * [Weather_observation_station_XX](pdf/weather-observation-station-20.pdf) - [Solution](sql/Weather_observation_station_XX.sql)
+
+-->
+
+
+### Basic Join
+* [African_cities](pdf/african-cities.pdf) - [Solution](sql/African_cities.sql)
+
+
+
+
+
+
+<!--
+___
+
+* [Average_population_of_each_continent](pdf/average-population-of-each-continent.pdf) - [Solution](sql/Average_population_of_each_continent.sql)
+* [Challenges](pdf/challenges.pdf) - [Solution](sql/Challenges.sql)
+* [Contest_Leaderboard](pdf/contest-leaderboard.pdf) - [Solution](sql/Contest_Leaderboard.sql)
+* [Ollivanders_Inventory](pdf/harry-potter-and-wands.pdf) - [Solution](sql/Ollivanders_Inventory.sql)
+* [Population_census](pdf/asian-population.pdf) - [Solution](sql/Population_census.sql)
+* [The_Competitors](pdf/full-score.pdf) - [Solution](sql/Top_Competitors.sql)
+* [The_Report](pdf/the-report.pdf) - [Solution](sql/The_Report.sql)
 
 -->
