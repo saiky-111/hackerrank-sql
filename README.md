@@ -58,8 +58,9 @@ ___
 * [Average_Population](pdf/average-population.pdf) - [Solution](SQL/Average_population.sql)
 * [Japan_Population](pdf/japan-population.pdf) - [Solution](SQL/Japan_population.sql)
 * [Population_Density_Difference](pdf/population-density-difference.pdf) - [Solution](SQL/Population_density_difference.sql)
-* [**The_Blunder](pdf/the-blunder.pdf) - [Solution](sql/The_blunder.sql)
-
+* [**The_Blunder](pdf/the-blunder.pdf) - [Solution](SQL/The_blunder.sql)
+* [Weather_observation_station_II](pdf/weather-observation-station-2.pdf) - [Solution](SQL/Weather_observation_station_II.sql)
+* [Weather_observation_station_XIII](pdf/weather-observation-station-13.pdf) - [Solution](SQL/Weather_observation_station_XIII.sql)
 <!--
 * [Weather_observation_station_V](pdf/weather-observation-station-5.pdf) - [Solution](sql/Weather_observation_station_V.sql)
 
@@ -67,10 +68,8 @@ ___
 
 
 
-* [The_blunder](pdf/the-blunder.pdf) - [Solution](sql/The_blunder.sql)
 * [Top_earners](pdf/earnings-of-employees.pdf) - [Solution](sql/Top_earners.sql)
-* [Weather_observation_station_II](pdf/weather-observation-station-2.pdf) - [Solution](sql/Weather_observation_station_II.sql)
-* [Weather_observation_station_XIII](pdf/weather-observation-station-13.pdf) - [Solution](sql/Weather_observation_station_XIII.sql)
+
 * [Weather_observation_station_XIV](pdf/weather-observation-station-14.pdf) - [Solution](sql/Weather_observation_station_XIV.sql)
 * [Weather_observation_station_XV](pdf/weather-observation-station-15.pdf) - [Solution](sql/Weather_observation_station_XV.sql)
 * [Weather_observation_station_XVI](pdf/weather-observation-station-16.pdf) - [Solution](sql/Weather_observation_station_XVI.sql)
