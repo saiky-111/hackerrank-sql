@@ -67,7 +67,7 @@ ___
 * [Weather_observation_station_XVI](pdf/weather-observation-station-16.pdf) - [Solution](SQL/Weather_observation_station_XVI.sql)
 * [Weather_observation_station_XVII](pdf/weather-observation-station-17.pdf) - [Solution](SQL/Weather_observation_station_XVII.sql)
 * [**Top_Earners](pdf/earnings-of-employees.pdf) - [Solution](SQL/Top_earners.sql)
-* [**The_Blunder](pdf/the-blunder.pdf) - [Solution](SQL/The_blunder.sql)
+* [**The_Blunder](pdf/the-blunder.pdf) - [Solution](SQL/The_blunder.sql) 
 
 
 <!--
