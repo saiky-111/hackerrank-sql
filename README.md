@@ -67,7 +67,7 @@ ___
 * [Weather_observation_station_XVI](pdf/weather-observation-station-16.pdf) - [Solution](SQL/Weather_observation_station_XVI.sql)
 * [Weather_observation_station_XVII](pdf/weather-observation-station-17.pdf) - [Solution](SQL/Weather_observation_station_XVII.sql)
 * [**Top_Earners](pdf/earnings-of-employees.pdf) - [Solution](SQL/Top_earners.sql)
-* [**The_Blunder](pdf/the-blunder.pdf) - [Solution](SQL/The_blunder.sql) 
+* [**The_Blunder](pdf/the-blunder.pdf) - [Solution](SQL/The_blunder.sql) p;p'
 
 
 <!--
@@ -90,6 +90,7 @@ ___
 
 ### Basic Join
 * [African_cities](pdf/african-cities.pdf) - [Solution](SQL/African_cities.sql)
+* [Population_census](pdf/asian-population.pdf) - [Solution](SQL/Population_census.sql)
 
 
 
@@ -103,7 +104,7 @@ ___
 * [Challenges](pdf/challenges.pdf) - [Solution](sql/Challenges.sql)
 * [Contest_Leaderboard](pdf/contest-leaderboard.pdf) - [Solution](sql/Contest_Leaderboard.sql)
 * [Ollivanders_Inventory](pdf/harry-potter-and-wands.pdf) - [Solution](sql/Ollivanders_Inventory.sql)
-* [Population_census](pdf/asian-population.pdf) - [Solution](sql/Population_census.sql)
+
 * [The_Competitors](pdf/full-score.pdf) - [Solution](sql/Top_Competitors.sql)
 * [The_Report](pdf/the-report.pdf) - [Solution](sql/The_Report.sql)
 
