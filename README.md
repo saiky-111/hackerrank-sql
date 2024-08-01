@@ -51,7 +51,10 @@ ___
 ___
 ## INTERMEDIATE SQL
 
+### Basic Select
 
+* [Weather_observation_station_V](pdf/weather-observation-station-5.pdf) - [Solution](SQL/Weather_observation_station_V.sql)
+___
 ### Aggregation
 * [Revising_Aggregations_-_The_Count_Function](pdf/revising-aggregations-the-count-function.pdf) - [Solution](SQL/Revising_aggregations_-_the_count_function.sql)
 * [Revising_Aggregations_-_The_Sum_Function](pdf/revising-aggregations-sum.pdf) - [Solution](SQL/Revising_aggregations_-_sum.sql)
@@ -59,7 +62,6 @@ ___
 * [Average_Population](pdf/average-population.pdf) - [Solution](SQL/Average_population.sql)
 * [Japan_Population](pdf/japan-population.pdf) - [Solution](SQL/Japan_population.sql)
 * [Population_Density_Difference](pdf/population-density-difference.pdf) - [Solution](SQL/Population_density_difference.sql)
-
 * [Weather_observation_station_II](pdf/weather-observation-station-2.pdf) - [Solution](SQL/Weather_observation_station_II.sql)
 * [Weather_observation_station_XIII](pdf/weather-observation-station-13.pdf) - [Solution](SQL/Weather_observation_station_XIII.sql)
 * [Weather_observation_station_XIV](pdf/weather-observation-station-14.pdf) - [Solution](SQL/Weather_observation_station_XIV.sql)
@@ -67,11 +69,11 @@ ___
 * [Weather_observation_station_XVI](pdf/weather-observation-station-16.pdf) - [Solution](SQL/Weather_observation_station_XVI.sql)
 * [Weather_observation_station_XVII](pdf/weather-observation-station-17.pdf) - [Solution](SQL/Weather_observation_station_XVII.sql)
 * [**Top_Earners](pdf/earnings-of-employees.pdf) - [Solution](SQL/Top_earners.sql)
-* [**The_Blunder](pdf/the-blunder.pdf) - [Solution](SQL/The_blunder.sql) p;p'
+* [**The_Blunder](pdf/the-blunder.pdf) - [Solution](SQL/The_blunder.sql)
 
 
 <!--
-* [Weather_observation_station_V](pdf/weather-observation-station-5.pdf) - [Solution](sql/Weather_observation_station_V.sql)
+
 
 ___
 
